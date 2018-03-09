@@ -1,5 +1,7 @@
-#include "HelloWorld.h"
-int main() {
-  HelloWorld hw;
-  return 0;
-}
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"hello world\n"<<endl;
+	return 0;
+ } 
